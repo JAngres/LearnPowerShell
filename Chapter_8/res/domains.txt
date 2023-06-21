@@ -1,0 +1,3 @@
+www.google.de
+www.cisco.com
+www.microsoft.com
