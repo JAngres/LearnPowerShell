@@ -1,9 +1,0 @@
-Aufgabe 3: Protokoll vorgeben und Ereignisse suchen lassen durch Filtern:
-1y) 2x Admin Anmeldung, id=4624
-2y) Anmeldung von bernd, hans, id=4624
-3y) 2 fehlgeschlagene Anmeldungen
-4y) 161 Einträge 
-5y) Konto felix und otto gesperrt, id=4740
-6y) Konto otto wieder entsperrt, id=4767
-7y) Lokale Gruppenmitgliedschaft eines Benutzers wird aufgezählt
-8y) Benutzer dirk, id=4720

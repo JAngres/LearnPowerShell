@@ -1,3 +1,0 @@
-Get-WindowsFeature | Where-Object { $_.Installed -eq $True }
-
-Install-WindowsFeature -Name Web-Server -IncludeAllSubFeatures -ComputerName WS01
